@@ -1,0 +1,11 @@
+{
+    "description": "Varun's .is-a.dev domain",
+    "repo": "https://github.com/kmr-varun/kmr-varun.github.io",
+    "owner": {
+      "username": "kmr-varun",
+      "email": "kmr11varun@gmail.com"
+    },
+    "record": {
+       "CNAME": "kmr-varun.github.io"
+    }
+  }
